@@ -66,10 +66,10 @@
 
 ##### 系统架构图
 
-![系统架构图](http://img.macrozheng.com/mall/project/mall_micro_service_arch.jpg)
+![系统架构图]()
 
 ##### 业务架构图
 
-![系统架构图](http://img.macrozheng.com/mall/project/mall_business_arch.png)
+![系统架构图]()
 
 #### 模块介绍
