@@ -9,7 +9,7 @@
 
 ## 项目介绍
 
-##特性
+## 技术特性
 - 基于数据同步与计算引擎纯钧和实时计算引擎Flink，支持JSON模版配置任务，兼容Flink SQL语法；
 - 支持分布式运行，支持flink-standalone、yarn-session、yarn-per job等多种提交方式；
 - 支持Docker一键部署，支持K8S 部署运行；
