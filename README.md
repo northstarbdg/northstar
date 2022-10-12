@@ -17,19 +17,20 @@
 | SpringBoot           | 容器+MVC框架        | https://spring.io/projects/spring-boot         |
 | SpringSecurity       | 认证和授权框架      | https://spring.io/projects/spring-security     |
 | MyBatis              | ORM框架             | http://www.mybatis.org/mybatis-3/zh/index.html |
-| MyBatisGenerator     | 数据层代码生成      | http://www.mybatis.org/generator/index.html    |
-| Elasticsearch        | 搜索引擎            | https://github.com/elastic/elasticsearch       |
+| Mybatis-Plus         | ORM框架            | https://baomidou.com/    |
+| Maven                | 程序构建            | https://maven.apache.org/       |
 | RabbitMQ             | 消息队列            | https://www.rabbitmq.com/                      |
 | Redis                | 分布式缓存          | https://redis.io/                              |
-| MongoDB              | NoSql数据库         | https://www.mongodb.com                        |
+| xxl-job              | 定时任务            | https://www.xuxueli.com/xxl-job                        |
+| Chunjun              | 数据同步与计算       | https://dtstack.github.io/chunjun                        |
+| Flink                | 实时计算引擎         | https://flink.apache.org/                       |
+| xxl-job              | 定时任务            | https://www.xuxueli.com/xxl-job/                        |
 | LogStash             | 日志收集工具        | https://github.com/elastic/logstash            |
 | Kibana               | 日志可视化查看工具  | https://github.com/elastic/kibana              |
 | Nginx                | 静态资源服务器      | https://www.nginx.com/                         |
 | Docker               | 应用容器引擎        | https://www.docker.com                         |
 | Jenkins              | 自动化部署工具      | https://github.com/jenkinsci/jenkins           |
-| Druid                | 数据库连接池        | https://github.com/alibaba/druid               |
-| OSS                  | 对象存储            | https://github.com/aliyun/aliyun-oss-java-sdk  |
-| MinIO                | 对象存储            | https://github.com/minio/minio                 |
+| Druid                | 数据库连接池        | https://github.com/alibaba/druid               |   |
 | JWT                  | JWT登录支持         | https://github.com/jwtk/jjwt                   |
 | Lombok               | 简化对象封装工具    | https://github.com/rzwitserloot/lombok         |
 | Hutool               | Java工具类库        | https://github.com/looly/hutool                |
