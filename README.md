@@ -157,5 +157,5 @@
 16. 质量检测结果：通过质量任务设置质量检测规则，按规则检测数据的合法性及有效性等。
 
 ## 沟通交流
-
+邮箱：northstarbdg@gmail.com
 ![沟通交流群](https://northstarbdg.github.io/northstar/%E6%B2%9F%E9%80%9A%E4%BA%A4%E6%B5%81%E7%BE%A4.png)
