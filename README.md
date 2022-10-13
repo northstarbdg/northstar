@@ -16,8 +16,12 @@
 #### 后台管理系统
 登陆页
 ![登陆页](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E7%99%BB%E9%99%86.png)
+
 概述页
 ![概述页](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E6%A6%82%E8%BF%B0.png)
+
+数仓管理
+![数仓管理](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E6%95%B0%E4%BB%93%E7%AE%A1%E7%90%86.png)
 
 ## 技术特性
 - 基于数据同步与计算引擎纯钧和实时计算引擎Flink，支持JSON模版配置任务，兼容Flink SQL语法；
