@@ -14,6 +14,7 @@
 
 ### 项目页面预览
 #### 后台管理系统
+
 登陆页
 ![登陆页](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E7%99%BB%E9%99%86.png)
 
@@ -25,6 +26,22 @@
 
 数据源管理
 ![数据源管理](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E6%95%B0%E6%8D%AE%E6%BA%90%E7%AE%A1%E7%90%86.png)
+
+数据结构管理
+![数据结构管理](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AE%A1%E7%90%86.png)
+
+任务列表
+![任务列表](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E4%BB%BB%E5%8A%A1%E5%88%97%E8%A1%A8.png)
+
+任务添加
+![任务添加](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E4%BB%BB%E5%8A%A1%E6%B7%BB%E5%8A%A0.png)
+
+
+工作流列表
+![工作流列表](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%88%97%E8%A1%A8.png)
+
+工作流编辑
+![工作流编辑](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%BC%96%E8%BE%91.png)
 
 
 ## 技术特性
