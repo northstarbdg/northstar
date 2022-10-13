@@ -23,6 +23,10 @@
 数仓管理
 ![数仓管理](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E6%95%B0%E4%BB%93%E7%AE%A1%E7%90%86.png)
 
+数据源管理
+![数据源管理](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E6%95%B0%E6%8D%AE%E6%BA%90%E7%AE%A1%E7%90%86.png)
+
+
 ## 技术特性
 - 基于数据同步与计算引擎纯钧和实时计算引擎Flink，支持JSON模版配置任务，兼容Flink SQL语法；
 - 支持分布式运行，支持flink-standalone、yarn-session、yarn-per job等多种提交方式；
