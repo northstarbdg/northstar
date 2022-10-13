@@ -78,8 +78,5 @@
 
 ![系统架构图](https://northstarbdg.github.io/northstar/%E6%9E%B6%E6%9E%84%E5%9B%BE%E7%89%87.png)
 
-##### 业务架构图
-
-![系统架构图]()
 
 #### 模块介绍
