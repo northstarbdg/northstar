@@ -16,6 +16,7 @@
 #### 后台管理系统
 
 登陆页
+登陆页
 ![登陆页](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E7%99%BB%E9%99%86.png)
 
 概述页
@@ -42,6 +43,39 @@
 
 工作流编辑
 ![工作流编辑](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%BC%96%E8%BE%91.png)
+
+工作调度列表
+![工作调度列表](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E5%B7%A5%E4%BD%9C%E8%B0%83%E5%BA%A6%E5%88%97%E8%A1%A8.png)
+
+
+新建调度
+![新建调度](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E6%96%B0%E5%BB%BA%E8%B0%83%E5%BA%A6.png)
+
+调度日志列表
+![调度日志列表](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E8%B0%83%E5%BA%A6%E6%97%A5%E5%BF%97%E5%88%97%E8%A1%A8.png)
+
+
+日志详情
+![日志详情](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E6%97%A5%E5%BF%97%E8%AF%A6%E6%83%85.png)
+
+令牌管理
+![令牌管理](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E4%BB%A4%E7%89%8C%E7%AE%A1%E7%90%86.png)
+
+资产运维
+![资产运维](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E8%B5%84%E4%BA%A7%E8%BF%90%E7%BB%B4.png)
+
+资产列表
+![资产列表](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E8%B5%84%E4%BA%A7%E5%88%97%E8%A1%A8.png)
+
+资产编辑
+![资产编辑](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E8%B5%84%E4%BA%A7%E7%BC%96%E8%BE%91.png)
+
+质量标准
+![质量标准](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E8%B4%A8%E9%87%8F%E6%A0%87%E5%87%86.png)
+
+质量检测结果
+![质量检测结果](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E8%B4%A8%E9%87%8F%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C.png)
+
 
 
 ## 技术特性
