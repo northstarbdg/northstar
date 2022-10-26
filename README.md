@@ -76,6 +76,8 @@
 质量检测结果
 ![质量检测结果](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E8%B4%A8%E9%87%8F%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C.png)
 
+数据大屏
+![数据大屏](https://northstarbdg.github.io/northstar/%E9%A1%B9%E7%9B%AE%E9%A2%84%E8%A7%88/%E6%95%B0%E6%8D%AE%E5%A4%A7%E5%B1%8F.png)
 
 
 ## 技术特性
